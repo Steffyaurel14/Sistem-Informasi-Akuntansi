@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></p>
+![image](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/13f2fd9c-2852-48c6-b87e-2f286debe46c)<p align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -175,6 +175,54 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Dashboard dan Menu Akun
 ![Screenshot (215)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/130eed16-183e-49bf-a2f8-827e1b833570)
+
+## Menambahkan Akun
+![Screenshot (241)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/83de4fcd-4630-47bc-88ee-6db48f96b38a)
+
+## Menu Jurnal Umum dan Memasukkan Transaksi
+![Screenshot (218)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/12abc05c-e9ef-443a-8b51-6ceeeb82d621)
+![Screenshot (242)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/c660a31d-6812-40b8-a271-af03381dbbd8)
+Ketika transaksi dilakukan, maka user langsung dapat memasukkannya ke dalam jurnal penyesuaian
+
+## Menu Jurnal Penyesuaian dan Menambahkan Transaksi
+![Screenshot (220)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/8beb5ab8-f7e9-47ee-8b47-cce684d75854)
+![Screenshot (243)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/bc9e2fec-80dc-4c57-8b8f-fda23d9a3156)
+
+## Menu Buku Besar
+![Screenshot (244)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/1433cdd7-672e-47a0-b016-d94367110599)
+
+## Menu Neraca Lajur
+![Screenshot (245)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/3802e531-57e5-4a07-92be-7888546b20ac)
+Pada menu reca lajur, user dapat mencari Neraca Saldo, Penyesuaian, Neraca Saldo Disesuaikan, Laporan Laba Rugi, dan Neraca
+
+## Menu Laporan Perubahan Ekuitas
+![Screenshot (246)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/ff58c309-ea38-4e34-8c63-9648152d92ed)
+
+## Menu Laporan Laba Rugi
+![Screenshot (247)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/2620f281-285f-4a6d-8945-ab1434548071)
+
+## Menu Laporan Posisi Keuangan
+![Screenshot (248)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/3e714f55-20f6-4177-8b5c-c8d88a6db374)
+
+## Menu Jurnal Penutup
+![Screenshot (249)](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/accad8e1-246f-4bbf-8615-9f763219a063)
+
+## FLOWCHART SISTEM INFORMASI AKUNTANSI
+![WhatsApp Image 2023-12-03 at 14 27 32_8d36d2b4](https://github.com/Steffyaurel14/Sistem-Informasi-Akuntansi/assets/152130862/6db4136c-88bd-4993-b600-7c85bf63c9e1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
